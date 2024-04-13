@@ -13,7 +13,7 @@ public class Controller1 {
 
 
     ) {
-        return String.format("%s / %s", title, content);
+        return String.format("%s /  %s", title, content);
     }
     // 경로로 요청이 들어온 경우 Hello 라는 문자열이 반환되도록 작성했다.
 
